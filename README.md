@@ -2,14 +2,6 @@
 
 An MCP (Model Context Protocol) server that provides AI assistants with tools to interact with D2L Brightspace LMS.
 
-## ⚠️ WARNING! ⚠️
-
-This server should **not** be used in any way to engage in academic misconduct.
-Do not use this MCP server to cheat on any assignments, or to gain an unfair advantage
-over other students. This server is only intended for use to enable agents to
-better understand your assignment scheduling and to help with your _learning_ of the
-course material.
-
 **I do not condone the use of this server in any activities that would violate the user's university's Academic Code of Conduct.**
 
 ## Features
